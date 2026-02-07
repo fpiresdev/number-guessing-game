@@ -12,3 +12,6 @@ Possible future improvements:
 3- Refactor and optimize the code as i learn more python.
 
 Password: letmein
+
+
+<img width="539" height="815" alt="Image" src="https://github.com/user-attachments/assets/8709afff-259a-4386-b527-769ebe2359ef" />
