@@ -1,7 +1,7 @@
 # Number Guessing Game (Python)
 This is my first project ever. It's a simple number guessing terminal-based game written in python. 
 The user must enter a password and then guess a number from 1 to 100 with feedback on whether the guess is too high, too low, or how close it is to the correct number.
-I made this to help me better understand python fundamentals such as variables, loops, conditionals, functions and control flow. I also learned a lot about debugging logic errors structuring code properly and simply avoiding redundancy.
+I made this to help me better understand python fundamentals such as variables, loops, conditionals, functions and control flow. I also learned a lot about debugging logic errors, structuring code properly and simply avoiding redundancy.
 
 Possible future improvements:
 
