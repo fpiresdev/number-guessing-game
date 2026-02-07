@@ -13,5 +13,5 @@ Possible future improvements:
 
 Password: letmein
 
-
+Image of the program working:
 <img width="539" height="815" alt="Image" src="https://github.com/user-attachments/assets/8709afff-259a-4386-b527-769ebe2359ef" />
